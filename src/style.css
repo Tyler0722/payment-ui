@@ -1,0 +1,27 @@
+@font-face { 
+  font-family: 'SFPro';
+  font-style: normal;
+  font-weight: 800;
+  src: url("assets/fonts/SFPro/heavy.ttf") format('truetype');
+}
+
+@font-face { 
+  font-family: 'SFPro';
+  font-style: normal;
+  font-weight: 700;
+  src: url("assets/fonts/SFPro/bold.ttf") format('truetype');
+}
+
+@font-face { 
+  font-family: 'SFPro';
+  font-style: normal;
+  font-weight: 500;
+  src: url("assets/fonts/SFPro/medium.ttf") format('truetype');
+}
+
+@font-face { 
+  font-family: 'SFPro';
+  font-style: normal;
+  font-weight: 400;
+  src: url("assets/fonts/SFPro/regular.ttf") format('truetype');
+}
